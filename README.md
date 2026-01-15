@@ -1,9 +1,9 @@
-#Password Generator & Manager
+## Password Generator & Manager
 
-A powerful, user-friendly Password Generator, Strength Checker, and Password Manager designed to help users create, evaluate, and store secure passwords.
+A user-friendly Password Generator, Strength Checker, and Password Manager designed to help users create, evaluate, and store secure passwords.
 This tool emphasizes security, simplicity, and real-time feedback to encourage strong password habits.
 
-#Features
+## Features
 - Password Generator
 
 Customizable password length (8–32 characters)
